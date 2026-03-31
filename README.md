@@ -1,4 +1,4 @@
-# Hi, I'm Sachin Yadav 👋  
+ # Hi, I'm Sachin Yadav 👋  
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(MERN);Generative+AI+Enthusiast;Building+Real+World+Products;800%2B+Users+ERP+System" />
@@ -63,21 +63,6 @@
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
 ![GenAI](https://img.shields.io/badge/Generative_AI-000?style=for-the-badge)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-[![Sachin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)](https://github.com/YOUR_USERNAME)
 
 ---
 
