@@ -1,4 +1,4 @@
- # Hi, I'm Sachin Yadav 👋  
+# Hi, I'm Sachin Yadav 👋  
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(MERN);Generative+AI+Enthusiast;Building+Real+World+Products;800%2B+Users+ERP+System" />
@@ -68,7 +68,7 @@
 
 ## 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=99sachinyadav&theme=onedark)
 
 ---
 
