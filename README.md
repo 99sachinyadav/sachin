@@ -1,20 +1,41 @@
-# Hi, I'm Sachin Yadav 👋
+# Hi, I'm Sachin Yadav 👋  
 
-💻 Full Stack Developer (MERN Stack) | 🤖 Generative AI Enthusiast | 🚀 Building Scalable Products  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(MERN);Generative+AI+Enthusiast;Building+Real+World+Products;800%2B+Users+ERP+System" />
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-Full Stack Developer (MERN Stack) with hands-on experience in building scalable and production-level applications.  
+💻 Full Stack Developer (MERN Stack) with hands-on experience in building scalable and production-level applications  
 
-- 🏫 Developed a **College ERP system** serving **800+ users**, enabling efficient management of student data, attendance, and administrative workflows  
-- 📚 Built **Sdemy**, a full-fledged **EdTech platform (Web + Mobile)**, where I created and delivered a **Python course**  
-- 🤖 Experienced in integrating **Generative AI** into real-world applications  
+- 🏫 Built a **College ERP System** serving **800+ users**  
+- 📚 Created **Sdemy (EdTech Platform)** with my own **Python Course**  
+- 🤖 Integrating **Generative AI** into modern applications  
+- 🚀 Passionate about building impactful, real-world products  
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Featured Projects
+
+### 🏫 College ERP System
+- 👥 800+ active users  
+- 📊 Attendance & student management system  
+- 🔐 Role-based authentication (Admin/Teacher/Student)  
+- ⚡ Scalable MERN architecture  
+
+---
+
+### 📚 Sdemy - EdTech Platform
+- 🌐 Web + Mobile platform  
+- 🎓 Created and published **Python course**  
+- 📈 Focused on student learning experience  
+- 🔥 Real-world product deployment  
+
+---
+
+## 🛠️ Tech Stack
 
 ### 💡 Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
@@ -24,7 +45,7 @@ Full Stack Developer (MERN Stack) with hands-on experience in building scalable 
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
 ![React Native](https://img.shields.io/badge/React_Native-000?style=for-the-badge&logo=react)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000?style=for-the-badge&logo=tailwind-css)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-000?style=for-the-badge&logo=framer)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-000?style=for-the-badge)
 ![GSAP](https://img.shields.io/badge/GSAP-000?style=for-the-badge)
 
 ### ⚙️ Backend
@@ -47,7 +68,16 @@ Full Stack Developer (MERN Stack) with hands-on experience in building scalable 
 
 ## 📊 GitHub Stats
 
-![Sachin's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+[![Sachin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)](https://github.com/YOUR_USERNAME)
 
 ---
 
